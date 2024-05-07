@@ -204,29 +204,30 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus  :
  
-![Output](Op1-pmc6.png)
+![image](https://github.com/Ragu-123/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113915622/9c1fa9d7-eb59-4900-8316-10c74e772569)
+
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-![Output](Op2-pmc6.png)
+![image](https://github.com/Ragu-123/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113915622/ee8a40c8-94a4-442b-be23-79581e815bdd)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### FOR PULSE AT 50%
-![Output](Op3-pmc6.png)
+![image](https://github.com/Ragu-123/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113915622/60e116c2-380f-4d81-bff7-4f29b391c2b0)
 ### TON = 0.66 ms.
 ### TOFF= 0.62 ms.
 ### TOTAL TIME = 1.28 ms
 ### FREQUENCY = 781.25 Hz.
 
 ### FOR PULSE AT 70%
-![Output](Op4-pmc6.png)
+![image](https://github.com/Ragu-123/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113915622/cb91e326-2a1d-420b-87b1-caadc8ae525d)
 ### TON = 0.86 ms.
 ### TOFF= 0.38 ms.
 ### TOTAL TIME = 1.24 ms.
 ### FREQUENCY = 806.45 Hz
 
 ### FOR PULSE AT 90%
-![Output](Op5-pmc6.png)
+![image](https://github.com/Ragu-123/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113915622/ccfbb877-ee38-4055-af2e-dc437479cb2b)
 ### TON = 1.12 ms.
 ### TOFF = 0.14 ms.
 ### TOTAL TIME = 1.26 ms.
